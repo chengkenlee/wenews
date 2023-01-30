@@ -1,0 +1,11 @@
+
+token:
+  send: [eb8b9c60-9fac-11ed-a702-afe274b9d23d]
+  room: [3d153b20-9fd7-11ed-a2b3-ff2e814fee19]
+
+log:
+  line: true
+  level: 0
+  path: 'C:\Users\chengkenlee\log'
+  console: true
+
